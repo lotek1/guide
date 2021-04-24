@@ -9,8 +9,8 @@ export default function Navbar() {
   return (
     <div className="container">
       <nav>
-        <Image src="/rupee.png" width={50} height={48} />
-        <h1>Gaming Vibes</h1>
+        <Image src="/logo.png" width={50} height={51} />
+        <h1>Guidery</h1>
         <ul>
           <li>
             <Link href="/">
@@ -28,7 +28,7 @@ export default function Navbar() {
         </ul>
       </nav>
       <div className="banner">
-        <Image src="/banner.png" width={966} height={276} />
+        <Image src="/411.png" width={966} height={276} />
       </div>
     </div>
   );
