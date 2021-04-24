@@ -9,8 +9,10 @@ export default function Navbar() {
   return (
     <div className="container">
       <nav>
-        <Image src="/logo.png" width={50} height={51} />
-        <h1>Guidery</h1>
+        <Image src="/logo.png" width={50} height={51} padding={10} />
+        <Link href="/">
+          <a> Guidery</a>
+        </Link>
         <ul>
           <li>
             <Link href="/">
