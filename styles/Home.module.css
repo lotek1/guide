@@ -1,6 +1,7 @@
 .home {
-  max-width: 760px;
-  margin: 40px auto;
+  max-width: 860px;
+  margin: 10px auto;
   letter-spacing: 1px;
   line-height: 1.6em;
+  justify-content: center;
 }
