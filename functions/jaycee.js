@@ -1,7 +1,7 @@
 exports.handler = async () => {
     console.log("function ran");
 
-    const data = { name: "jaycee", age: 35, job: "dev"}
+    const data = { name: "jaycee", age: 35, job: "dev" }
 
     //Return response to browser
     return {
