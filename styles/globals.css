@@ -2,7 +2,7 @@
 
 /* base styles */
 :root {
-  --primary: rgb(205, 136, 108);
+  --primary: #cd886c;
 }
 body {
   padding: 0;
